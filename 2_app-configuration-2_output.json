@@ -1,0 +1,8 @@
+{
+    "app": "my-app",
+    "version": "1.0",
+    "apps-dimensioning-2": "processed_it",
+    "oandm-dimensioning-2": "processed_it",
+    "platform-dimensioning-2": "processed_it",
+    "app-configuration-2": "processed_it"
+}
