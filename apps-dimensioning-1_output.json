@@ -1,0 +1,19 @@
+{
+    "project_id": 1,
+    "project_name": "Tech Office Deployment",
+    "traffic_solution_name": "Traffic Solution Profile",
+    "traffic_solution_values": {
+        "db_update_operation": {
+            "value": "allowed"
+        }
+    },
+    "dimensioning_id": 0,
+    "engine_image": {
+        "AppDimensioningImage": "Ubuntu",
+        "OandMDimensioningImage": "Ubuntu",
+        "PlatformDimensioningImage": "Ubuntu",
+        "AppConfigImage": "Ubuntu",
+        "PlatfomrConfigImage": "Ubuntu"
+    },
+    "apps-dimensioning-1": "processed_it"
+}
