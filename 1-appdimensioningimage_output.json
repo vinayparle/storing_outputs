@@ -1,19 +1,19 @@
 {
     "project_id": 1,
     "project_name": "Tech Office Deployment",
-    "traffic_solution_name": "HelloWorld",
-    "data_list": {
+    "traffic_solution_name": "Traffic Solution Profile",
+    "traffic_solution_values": {
         "db_update_operation": {
             "value": "allowed"
         }
     },
     "dimensioning_id": 0,
     "engine_image": {
-        "AppDimensioningImage": "ubuntu:latest",
-        "OandMDimensioningImage": "nginx:latest",
-        "PlatformDimensioningImage": "ubuntu:20.04",
-        "AppConfigImage": "nginx:stable",
-        "PlatformConfigImage": "ubuntu:18.04"
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatfomrConfigImage": "ubuntu"
     },
     "1-appdimensioningimage": "processed_it"
 }
