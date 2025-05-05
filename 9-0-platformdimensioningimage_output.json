@@ -1,0 +1,15 @@
+{
+    "project_id": 9,
+    "project_name": "fdasf",
+    "dimensioning_id": 0,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "9-0-appdimensioningimage": "processed_it",
+    "9-0-oandmdimensioningimage": "processed_it",
+    "9-0-platformdimensioningimage": "processed_it"
+}
