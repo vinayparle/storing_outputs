@@ -1,0 +1,13 @@
+{
+    "project_id": 7,
+    "project_name": "Customer Experience Enhancement",
+    "dimensioning_id": 0,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "7-0-appdimensioningimage": "processed_it"
+}
