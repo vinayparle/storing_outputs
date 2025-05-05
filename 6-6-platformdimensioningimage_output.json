@@ -1,0 +1,15 @@
+{
+    "project_id": 6,
+    "project_name": "sdfsdf",
+    "dimensioning_id": 6,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "6-6-appdimensioningimage": "processed_it",
+    "6-6-oandmdimensioningimage": "processed_it",
+    "6-6-platformdimensioningimage": "processed_it"
+}
