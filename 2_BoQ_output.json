@@ -1,17 +1,1 @@
-{
-    "project_id": 2,
-    "project_name": "Core",
-    "dimensioning_id": 3,
-    "engine_image": {
-        "AppDimensioningImage": "ubuntu",
-        "OandMDimensioningImage": "ubuntu",
-        "PlatformDimensioningImage": "ubuntu",
-        "AppConfigImage": "ubuntu",
-        "PlatformConfigImage": "ubuntu"
-    },
-    "2-3-appdimensioningimage": "processed_it",
-    "2-3-oandmdimensioningimage": "processed_it",
-    "2-3-platformdimensioningimage": "processed_it",
-    "2-3-appconfigimage": "processed_it",
-    "2-3-platformconfigimage": "processed_it"
-}
+null
