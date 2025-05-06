@@ -1,0 +1,14 @@
+{
+    "project_id": 58,
+    "project_name": "FirstNetwork",
+    "dimensioning_id": 4,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "58-4-appdimensioningimage": "processed_it",
+    "58-4-oandmdimensioningimage": "processed_it"
+}
