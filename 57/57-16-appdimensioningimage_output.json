@@ -1,0 +1,13 @@
+{
+    "project_id": 57,
+    "project_name": "LAN Network",
+    "dimensioning_id": 16,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "57-16-appdimensioningimage": "processed_it"
+}
