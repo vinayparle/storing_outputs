@@ -1,0 +1,15 @@
+{
+    "project_id": 59,
+    "project_name": "IoT Solutions Development",
+    "dimensioning_id": 2,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "59-2-appdimensioningimage": "processed_it",
+    "59-2-oandmdimensioningimage": "processed_it",
+    "59-2-platformdimensioningimage": "processed_it"
+}
