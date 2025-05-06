@@ -1,0 +1,14 @@
+{
+    "project_id": 22,
+    "project_name": "ABC project",
+    "dimensioning_id": 0,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "22-0-appdimensioningimage": "processed_it",
+    "22-0-oandmdimensioningimage": "processed_it"
+}
