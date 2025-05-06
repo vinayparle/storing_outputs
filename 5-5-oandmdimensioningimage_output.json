@@ -10,5 +10,8 @@
         "PlatformConfigImage": "ubuntu"
     },
     "5-5-appdimensioningimage": "processed_it",
-    "5-5-oandmdimensioningimage": "processed_it"
+    "5-5-oandmdimensioningimage": "processed_it",
+    "5-5-platformdimensioningimage": "processed_it",
+    "5-5-appconfigimage": "processed_it",
+    "5-5-platformconfigimage": "processed_it"
 }
