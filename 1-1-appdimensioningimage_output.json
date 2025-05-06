@@ -1,0 +1,13 @@
+{
+    "project_id": 1,
+    "project_name": "Network Management",
+    "dimensioning_id": 1,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "1-1-appdimensioningimage": "processed_it"
+}
