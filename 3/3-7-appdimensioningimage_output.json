@@ -1,0 +1,13 @@
+{
+    "project_id": 3,
+    "project_name": "Tech Office Deployment",
+    "dimensioning_id": 7,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "3-7-appdimensioningimage": "processed_it"
+}
