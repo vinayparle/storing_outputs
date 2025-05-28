@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Service 1",
+        "# of PODs": 2,
+        "vCPU": 10,
+        "vRAM": 12,
+        "Storage": 512,
+        "Overall vCPU": 40,
+        "Overall vRAM": 48,
+        "Overall Storage": 2048
+    },
+    {
+        "Name": "Service 2",
+        "# of PODs": 8,
+        "vCPU": 20,
+        "vRAM": 24,
+        "Storage": 1024,
+        "Overall vCPU": 80,
+        "Overall vRAM": 96,
+        "Overall Storage": 4096
+    },
+    {
+        "Name": "Service 3",
+        "# of PODs": 2,
+        "vCPU": 30,
+        "vRAM": 32,
+        "Storage": 1024,
+        "Overall vCPU": 120,
+        "Overall vRAM": 128,
+        "Overall Storage": 4096
+    },
+    {
+        "Name": "Service n",
+        "# of PODs": 1,
+        "vCPU": 4,
+        "vRAM": 8,
+        "Storage": 0,
+        "Overall vCPU": 16,
+        "Overall vRAM": 32,
+        "Overall Storage": 0
+    }
+]
