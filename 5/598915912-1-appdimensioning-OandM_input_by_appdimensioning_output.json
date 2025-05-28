@@ -1,0 +1,26 @@
+[
+    {
+        "ParamererOutput1": "Yes"
+    },
+    {
+        "ParamererOutput2": 2000
+    },
+    {
+        "ParamererOutput3": 3
+    },
+    {
+        "ParamererOutput4": "true"
+    },
+    {
+        "ParamererOutput5": "false"
+    },
+    {
+        "ParamererOutput6": "string"
+    },
+    {
+        "ParamererOutput7": "High"
+    },
+    {
+        "ParamererOutput8": "Low"
+    }
+]
