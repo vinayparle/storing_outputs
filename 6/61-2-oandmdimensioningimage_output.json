@@ -1,0 +1,14 @@
+{
+    "project_id": 61,
+    "project_name": "5G Core Network",
+    "dimensioning_id": 2,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "61-2-appdimensioningimage": "processed_it",
+    "61-2-oandmdimensioningimage": "processed_it"
+}
