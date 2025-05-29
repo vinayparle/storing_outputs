@@ -1,0 +1,15 @@
+{
+    "project_id": 62,
+    "project_name": "Data Analytics Platform",
+    "dimensioning_id": 3,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "62-3-appdimensioningimage": "processed_it",
+    "62-3-oandmdimensioningimage": "processed_it",
+    "62-3-platformdimensioningimage": "processed_it"
+}
