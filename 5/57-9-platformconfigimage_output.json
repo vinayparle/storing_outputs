@@ -1,0 +1,17 @@
+{
+    "project_id": 57,
+    "project_name": "LAN Network",
+    "dimensioning_id": 9,
+    "engine_image": {
+        "AppDimensioningImage": "ubuntu",
+        "OandMDimensioningImage": "ubuntu",
+        "PlatformDimensioningImage": "ubuntu",
+        "AppConfigImage": "ubuntu",
+        "PlatformConfigImage": "ubuntu"
+    },
+    "57-9-appdimensioningimage": "processed_it",
+    "57-9-oandmdimensioningimage": "processed_it",
+    "57-9-platformdimensioningimage": "processed_it",
+    "57-9-appconfigimage": "processed_it",
+    "57-9-platformconfigimage": "processed_it"
+}
